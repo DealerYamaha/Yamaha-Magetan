@@ -1,1 +1,3 @@
-# Yamaha-Magetan
+#NOTE
+
+.github/workflows/generate-feed.yml
